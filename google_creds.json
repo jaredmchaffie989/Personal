@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "sheets-easypost",
+    "private_key_id": "ff9d5bd9a89352915f9988d2f27f2bf9510f300e",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCFFfq0rBUYYOdW\nwrWZjJfEzobDGuNBCdAi8UsbEIBf/lxV1lzRITmlxOIf9kA7LKbarKlwcJYbCfOz\nkyaPrME6HgctlU80XawzWR1sdvgrqCXiNzkjs8aah0ZAnpbpceV3RJFLM/6e8alu\nIh7erD62VlWGFL5O8S/83u6NERS1tw9pDR17Q0W+Oobfui3zD8yDuzsrjCrP8FEv\nyCUTC5kxXgKrrqKVFjgFl1DVPBU64CmtrUUlFclKnADgFAHlp5egpL0/gVEbwhGX\nfxR6PRpzFbCLXc3W9+22yTlugVuGCZ6X4FXdrzTwIkNnR3gUagttUL7lGmHnurOE\nP8ch7HK5AgMBAAECggEAEOU5brZp9y5WMC2H4HZ4zgNqGFrRfvA//C+l2Um/AnDI\nSB1uqx4Ms37LNkOM4/ZHOHuzBxND+yrIRYPo4VSNM1Oclaze4UcDFYG6uopf9yrh\npFZeaqnoDLYftRRtFDXha8LIr0Nqj8MeP10Vji9PxtYvBVac0mjMLs4eesowVuE3\nsKJbiC11jVCLsk8Gr++15LzSsNcyHgkaIEu2wSel8/SL0Ht1zxFWdbA4T//Npprz\nPI532YQXOhu49vWn6vlyaloWEKi0oZlTQhhSqKyGP9wShiyQT6AOXzlCgfvXrxUp\n+OvCYHFcapYrdTlK8odLBqO48p/VmJNBHlXN5rn6AQKBgQC+HzYJDPHQNsKShOjM\ndHqYFHKBmV66Ekb8vUw/ztrkH5Z2JGCJEeTbJGCGN4pWWDBXL2qtG9R/JUbVdx0P\nLyKm7X6+M2fj6LMtzr8HzKL3L8w0fsN3OEKhuum51gcO0YfKTs/59EWuWqXJw0sk\nXQTbT13lkMQlbdf5XJfx7ertlwKBgQCzM2CNNucwxFO9IONRxcVFh1LVtFW39uqO\nQBbBbJvPyhJjBRys4X76M7dYZNRHjMK4K3//LNN7bpiFa3f3ndymvJwjJby1vnGx\nta+oN3kvronnTZ2VwKqHFTz7zbKeF47Xyl1NwG+HsXfbwGSw5CBXEqoABsY6vY1C\neahw4Q5MLwKBgFI6e4t0js2oMYVfeLSdGDzYcyH8bIz7xLohQW5DkEakJtZYK2x9\nUcc6N4k1Ul6/68B5oKDYbZLEU5uV1fqwP0OFapDm+OMIzR5d0h+UcVOJ179IqE/T\nBHagueAHYqwVEa79YVRRQyYCzLuz/LbwiF42OH1GnJ83n/aZBpq7dSVnAoGAOlIh\nPTQ+H7f1jNr0QHu+DTfSdKyhLSMWCT/AaCkBuKmKPGHAiF9HJQTJyeHe2H5uLOQz\nXwfmuAgxaVKlk5fz5OwDYMj6Vqfpdq2rwnJzZVpHlVjETaWLmjUGSOkUFbGTEpXQ\nsepMIfxXBtThsFQ+VjhDzYhm4V0paRYRBNOqBI8CgYABhQ6CHTBQw+U/24aOzwnS\nldR4RYc4lD8fzmF4pbuTvigPggBOMyLn01rKAyMQUWvq1ImiXssCj+n/BE52lwAG\nVaM80g5YnPSCvkw6Am95BGZ6sSDACHqHtpCEQjJKnPcRE6tHf4exf+LuzTb/z2Ec\notM4barYEG4VaywNEdWPOw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "sheets-easypost@sheets-easypost.iam.gserviceaccount.com",
+    "client_id": "104407859704320304951",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-easypost%40sheets-easypost.iam.gserviceaccount.com"
+}
