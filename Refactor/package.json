@@ -1,0 +1,29 @@
+{
+  "name": "easypost_google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node index.js",
+    "print": "node label_printer.js",
+    "cleanup": "node archive_cleaner.js",
+    "test": "tap tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WigWagCo/manu-tools.git"
+  },
+  "author": "Jared McHaffie <jared@wigwag.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WigWagCo/manu-tools/issues"
+  },
+  "homepage": "https://github.com/WigWagCo/manu-tools#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "tap": "^10.3.2"
+  },
+  "dependencies": {
+    "node-netcat": "^1.4.8"
+  }
+}

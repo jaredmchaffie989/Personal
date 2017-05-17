@@ -1,0 +1,7 @@
+{
+	"spreadsheet_key": "1L0rzHWsXoAMp8rIUM6ftPUxzWGduP4bxZ00bXraxBpg",
+	"worksheet_name": "Sheet1",
+	"easypost_api_key": "K2ftwBmmGaHNn0TuxAz4fw",
+	"critical_log_path": "./logs/critical.log",
+	"entry_log_path": "./logs/entries.log"
+}
